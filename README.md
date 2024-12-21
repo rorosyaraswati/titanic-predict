@@ -2,6 +2,9 @@
 
 This is a web-based application for predicting Titanic survival using a pre-trained logistic regression model. The project utilizes Flask as the backend framework and Vue.js with Vite and Tailwind CSS for the frontend. 
 
+## Preview
+![Main Page](src/assets/home.png)
+
 ## Features
 
 - Input passenger details: passenger class, sex, age, passenger fare, and port of embarkation.
